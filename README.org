@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 07
 
-* Last name:
+* Last name: Guzman
 
-* First name:
+* First name: Jose
 
-* GitHub username:
+* GitHub username: JoseGC777
 
 * Notes:
 
